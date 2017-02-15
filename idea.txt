@@ -5,8 +5,6 @@ Search filter.
 pagination and go to page option.
 tooltip if the text is too large for the column.
 Create hanlders such that entire row data can be accessed by the row selection (can be single or multiple).
-I am not clear about this - On a certain operation if data gets updated we need to see -
-- if we can just refresh the effected part or we need to refresh the table.
 
 We can develop these features in our first phase of development.
 
