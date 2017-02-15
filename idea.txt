@@ -8,3 +8,9 @@ I am not clear about this - On a certain operation if data gets updated we need 
 - if we can just refresh the effected part or we need to refresh the table.
 
 We can develop these features in our first phase of development.
+
+The following would be our workflow,
+
+Complete requirement gathering.
+Identify what stack of tools we would be using.
+Start development, divide work, ensure we have deadlines, testing, review each other's code, testing.
